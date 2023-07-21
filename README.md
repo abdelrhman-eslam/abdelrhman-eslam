@@ -113,14 +113,7 @@
 <a href="https://www.linkedin.com/in/abdelrhman-eslam/" target="_blank"><img src="https://img.shields.io/badge/-Abdelrhman%20Eslam-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/Eng.AbdelrhmanEH" target="_blank"><img src="https://img.shields.io/badge/-Abdelrhman%20Eslam-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
-
-
-
-
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdelrhmanEslam&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=AbdelrhmanEslam&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=AbdelrhmanEslam&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=abdelrhman-eslam&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=abdelrhman-eslam&style=for-the-badge">
 </a>
